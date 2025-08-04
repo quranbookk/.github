@@ -27,6 +27,8 @@ QuranBookk.com offers a **powerful suite of Quranic tools and Islamic content** 
 - 🕋 **[Qibla Direction Finder](https://www.quranbookk.com/qibla-finder)** – Accurate Kaaba direction from anywhere in the world  
 - 🕰️ **[Islamic Prayer Times](https://www.quranbookk.com/prayer-times)** – Updated Salah timings based on your current location  
 - 📿 **[Digital Tasbih Counter](https://www.quranbookk.com/digital-tasbih)** – Count your Dhikr anytime, anywhere  
+- 🤖 **[Ask Shia AI](https://www.quranbookk.com/ask-shia-ai)** – AI-powered assistant for Shia Islamic questions, Quran, and Hadiths
+- 🤖 **[Ask Sunni AI](https://www.quranbookk.com/ask-sunni-ai)** – AI-powered assistant for Sunni Islamic questions and Hadiths
 - 📚 **[Authentic Hadith Collections](https://www.quranbookk.com/hadiths/hadiths-sources)** – Sahih Bukhari, Sahih Muslim, and more  
 - 🕯️ **[Top Quranic Duas](https://www.quranbookk.com/quran/ayats)** – Beautiful supplications with translations  
 - 🔍 **[Advanced Quran Search](https://www.quranbookk.com/quran/search)** – Search verses, words, topics in seconds  
@@ -72,7 +74,7 @@ If you find value in QuranBookk.com, please:
 
 ## 🏷️ SEO Keywords
 
-> Quran online, Listen to Quran, Read Quran with translation, Quran videos, Quran audio recitation, Islamic prayer times, Qibla direction online, Digital Tasbih, Authentic Hadiths, Learn Quran online, Online Quran search, QuranBookk.com
+> Quran online, Listen to Quran, Read Quran with translation, Quran videos, Quran audio recitation, Islamic prayer times, Qibla direction online, Digital Tasbih, Authentic Hadiths, Learn Quran online, Online Quran search, Ask Shia AI, Shia Islamic questions, AI Islamic assistant, QuranBookk.com
 
 ---
 
@@ -87,7 +89,6 @@ If you find value in QuranBookk.com, please:
 ## 🔗 Related Projects (Coming Soon)
 
 - 📱 QuranBookk Mobile App (iOS & Android)  
-- 🧠 AI Quran Assistant  
 - 📊 Quran Analytics for Researchers  
 - 🛠️ Open API for Quranic Content
 
